@@ -1,0 +1,66 @@
+# ColorFlow Configuration
+# All thresholds, targets, and smoothing constants for the grading pipeline
+
+# Frame sampling configuration
+sampling:
+  frames_per_video: 200
+  temporal_distribution: "even"  # "even" or "random"
+
+# Color space targets
+color_targets:
+  # Lab color space targets for neutral gray
+  neutral_lab:
+    L: 50.0
+    a: 0.0
+    b: 0.0
+
+  # JzAzBz color space targets (HDR perceptual space)
+  neutral_jzazbz:
+    Jz: 0.5
+    Az: 0.0
+    Bz: 0.0
+
+# Convergence criteria
+convergence:
+  delta_e_std_threshold: 1.5  # ΔE standard deviation threshold for convergence
+  max_iterations: 3
+  metrics_space: "lab"  # "lab" or "jzazbz"
+
+# Temporal smoothing parameters
+temporal_smoothing:
+  ev_ema_alpha: 0.3  # Exposure EMA smoothing factor
+  wb_ema_alpha: 0.2  # White balance EMA smoothing factor
+  saturation_ema_alpha: 0.25  # Saturation EMA smoothing factor
+
+# Transform limits and bounds
+transform_limits:
+  ev_min: -3.0  # Minimum EV adjustment
+  ev_max: 3.0   # Maximum EV adjustment
+  wb_shift_max: 0.1  # Maximum white balance shift per frame (10%)
+  saturation_min: 0.5  # Minimum saturation multiplier
+  saturation_max: 2.0  # Maximum saturation multiplier
+
+# Chromatic adaptation limits
+chromatic_adaptation:
+  max_frame_to_frame_shift: 0.1  # 10% max shift between consecutive frames
+
+# Output specifications
+output:
+  codec: "libx265"  # HEVC codec
+  resolution: "1080p"  # Output resolution
+  quality: 23  # CRF quality (lower = better)
+  preset: "medium"  # Encoding preset
+  pixel_format: "yuv420p10le"  # 10-bit pixel format for HDR
+
+# Logging configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/colorflow.log"
+
+# Visualization settings
+visualization:
+  dpi: 150
+  figsize: [12, 8]
+  histogram_bins: 256
+  tone_curve_samples: 1024
