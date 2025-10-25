@@ -1,0 +1,41 @@
+{
+  "file_info": {
+    "srt_file": "/workspace/Routes/DJI_0680.SRT",
+    "file_size_mb": 6.319989204406738,
+    "processed_at": "2025-10-25T22:48:44.562628"
+  },
+  "gps_analysis": {
+    "total_points": 19709,
+    "duration_seconds": 327.902,
+    "altitude_stats": {
+      "max_altitude": 479.405,
+      "min_altitude": 357.005,
+      "avg_altitude": 449.3154622253793,
+      "altitude_range": 122.39999999999998
+    },
+    "location_bounds": {
+      "min_lat": 35.730573,
+      "max_lat": 35.731902,
+      "min_lon": -84.865193,
+      "max_lon": -84.86308
+    }
+  },
+  "route_analysis": {
+    "route_points": 98545,
+    "interpolation_ratio": 5.0
+  },
+  "color_analysis": {
+    "total_color_points": 19709,
+    "lighting_condition": "daylight",
+    "recommended_preset": "natural",
+    "color_temperature_stats": {
+      "min_ct": 4670,
+      "max_ct": 5314,
+      "avg_ct": 5046.395555330052,
+      "std_ct": 103.45153461274582,
+      "ct_range": 644,
+      "ct_trend": "stable",
+      "significant_changes": [],
+      "time_series": [
+        [
+          
