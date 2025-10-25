@@ -1,0 +1,2526 @@
+1
+00:00:00,000 --> 00:00:00,041
+<font size="28">SrtCnt : 1, DiffTime : 41ms
+2025-01-19 07:07:34.432
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4928] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+2
+00:00:00,041 --> 00:00:00,083
+<font size="28">SrtCnt : 2, DiffTime : 42ms
+2025-01-19 07:07:34.473
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4928] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+3
+00:00:00,083 --> 00:00:00,125
+<font size="28">SrtCnt : 3, DiffTime : 42ms
+2025-01-19 07:07:34.515
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4928] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+4
+00:00:00,125 --> 00:00:00,166
+<font size="28">SrtCnt : 4, DiffTime : 41ms
+2025-01-19 07:07:34.557
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4928] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+5
+00:00:00,166 --> 00:00:00,208
+<font size="28">SrtCnt : 5, DiffTime : 42ms
+2025-01-19 07:07:34.599
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4927] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+6
+00:00:00,208 --> 00:00:00,250
+<font size="28">SrtCnt : 6, DiffTime : 42ms
+2025-01-19 07:07:34.640
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4927] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+7
+00:00:00,250 --> 00:00:00,292
+<font size="28">SrtCnt : 7, DiffTime : 42ms
+2025-01-19 07:07:34.682
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4927] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+8
+00:00:00,292 --> 00:00:00,333
+<font size="28">SrtCnt : 8, DiffTime : 41ms
+2025-01-19 07:07:34.724
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4927] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+9
+00:00:00,333 --> 00:00:00,375
+<font size="28">SrtCnt : 9, DiffTime : 42ms
+2025-01-19 07:07:34.765
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4925] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+10
+00:00:00,375 --> 00:00:00,417
+<font size="28">SrtCnt : 10, DiffTime : 42ms
+2025-01-19 07:07:34.807
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4925] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+11
+00:00:00,417 --> 00:00:00,458
+<font size="28">SrtCnt : 11, DiffTime : 41ms
+2025-01-19 07:07:34.849
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4924] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+12
+00:00:00,458 --> 00:00:00,500
+<font size="28">SrtCnt : 12, DiffTime : 42ms
+2025-01-19 07:07:34.890
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4924] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+13
+00:00:00,500 --> 00:00:00,542
+<font size="28">SrtCnt : 13, DiffTime : 42ms
+2025-01-19 07:07:34.932
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4923] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+14
+00:00:00,542 --> 00:00:00,584
+<font size="28">SrtCnt : 14, DiffTime : 42ms
+2025-01-19 07:07:34.974
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4923] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+15
+00:00:00,584 --> 00:00:00,625
+<font size="28">SrtCnt : 15, DiffTime : 41ms
+2025-01-19 07:07:35.016
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4922] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+16
+00:00:00,625 --> 00:00:00,667
+<font size="28">SrtCnt : 16, DiffTime : 42ms
+2025-01-19 07:07:35.057
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4922] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+17
+00:00:00,667 --> 00:00:00,709
+<font size="28">SrtCnt : 17, DiffTime : 42ms
+2025-01-19 07:07:35.099
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4921] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+18
+00:00:00,709 --> 00:00:00,750
+<font size="28">SrtCnt : 18, DiffTime : 41ms
+2025-01-19 07:07:35.144
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4921] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+19
+00:00:00,750 --> 00:00:00,792
+<font size="28">SrtCnt : 19, DiffTime : 42ms
+2025-01-19 07:07:35.182
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4920] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+20
+00:00:00,792 --> 00:00:00,834
+<font size="28">SrtCnt : 20, DiffTime : 42ms
+2025-01-19 07:07:35.226
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4920] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+21
+00:00:00,834 --> 00:00:00,876
+<font size="28">SrtCnt : 21, DiffTime : 42ms
+2025-01-19 07:07:35.266
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4919] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+22
+00:00:00,876 --> 00:00:00,917
+<font size="28">SrtCnt : 22, DiffTime : 41ms
+2025-01-19 07:07:35.308
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4919] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+23
+00:00:00,917 --> 00:00:00,959
+<font size="28">SrtCnt : 23, DiffTime : 42ms
+2025-01-19 07:07:35.350
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4918] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+24
+00:00:00,959 --> 00:00:01,001
+<font size="28">SrtCnt : 24, DiffTime : 42ms
+2025-01-19 07:07:35.391
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4918] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+25
+00:00:01,001 --> 00:00:01,042
+<font size="28">SrtCnt : 25, DiffTime : 41ms
+2025-01-19 07:07:35.433
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4917] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+26
+00:00:01,042 --> 00:00:01,084
+<font size="28">SrtCnt : 26, DiffTime : 42ms
+2025-01-19 07:07:35.474
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4917] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+27
+00:00:01,084 --> 00:00:01,126
+<font size="28">SrtCnt : 27, DiffTime : 42ms
+2025-01-19 07:07:35.516
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4914] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+28
+00:00:01,126 --> 00:00:01,168
+<font size="28">SrtCnt : 28, DiffTime : 42ms
+2025-01-19 07:07:35.558
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4914] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+29
+00:00:01,168 --> 00:00:01,209
+<font size="28">SrtCnt : 29, DiffTime : 41ms
+2025-01-19 07:07:35.603
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4912] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+30
+00:00:01,209 --> 00:00:01,251
+<font size="28">SrtCnt : 30, DiffTime : 42ms
+2025-01-19 07:07:35.641
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4912] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+31
+00:00:01,251 --> 00:00:01,293
+<font size="28">SrtCnt : 31, DiffTime : 42ms
+2025-01-19 07:07:35.683
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4911] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+32
+00:00:01,293 --> 00:00:01,334
+<font size="28">SrtCnt : 32, DiffTime : 41ms
+2025-01-19 07:07:35.725
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4911] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+33
+00:00:01,334 --> 00:00:01,376
+<font size="28">SrtCnt : 33, DiffTime : 42ms
+2025-01-19 07:07:35.766
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4909] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+34
+00:00:01,376 --> 00:00:01,418
+<font size="28">SrtCnt : 34, DiffTime : 42ms
+2025-01-19 07:07:35.809
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4909] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+35
+00:00:01,418 --> 00:00:01,460
+<font size="28">SrtCnt : 35, DiffTime : 42ms
+2025-01-19 07:07:35.850
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4907] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+36
+00:00:01,460 --> 00:00:01,501
+<font size="28">SrtCnt : 36, DiffTime : 41ms
+2025-01-19 07:07:35.892
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4907] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+37
+00:00:01,501 --> 00:00:01,543
+<font size="28">SrtCnt : 37, DiffTime : 42ms
+2025-01-19 07:07:35.933
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4906] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+38
+00:00:01,543 --> 00:00:01,585
+<font size="28">SrtCnt : 38, DiffTime : 42ms
+2025-01-19 07:07:35.978
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4906] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+39
+00:00:01,585 --> 00:00:01,626
+<font size="28">SrtCnt : 39, DiffTime : 41ms
+2025-01-19 07:07:36.017
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4904] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+40
+00:00:01,626 --> 00:00:01,668
+<font size="28">SrtCnt : 40, DiffTime : 42ms
+2025-01-19 07:07:36.059
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4904] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+41
+00:00:01,668 --> 00:00:01,710
+<font size="28">SrtCnt : 41, DiffTime : 42ms
+2025-01-19 07:07:36.100
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4902] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+42
+00:00:01,710 --> 00:00:01,752
+<font size="28">SrtCnt : 42, DiffTime : 42ms
+2025-01-19 07:07:36.145
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4902] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+43
+00:00:01,752 --> 00:00:01,793
+<font size="28">SrtCnt : 43, DiffTime : 41ms
+2025-01-19 07:07:36.184
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4900] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+44
+00:00:01,793 --> 00:00:01,835
+<font size="28">SrtCnt : 44, DiffTime : 42ms
+2025-01-19 07:07:36.226
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4900] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+45
+00:00:01,835 --> 00:00:01,877
+<font size="28">SrtCnt : 45, DiffTime : 42ms
+2025-01-19 07:07:36.267
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4898] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+46
+00:00:01,877 --> 00:00:01,918
+<font size="28">SrtCnt : 46, DiffTime : 41ms
+2025-01-19 07:07:36.309
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4898] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+47
+00:00:01,918 --> 00:00:01,960
+<font size="28">SrtCnt : 47, DiffTime : 42ms
+2025-01-19 07:07:36.351
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4897] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+48
+00:00:01,960 --> 00:00:02,002
+<font size="28">SrtCnt : 48, DiffTime : 42ms
+2025-01-19 07:07:36.392
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4897] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+49
+00:00:02,002 --> 00:00:02,044
+<font size="28">SrtCnt : 49, DiffTime : 42ms
+2025-01-19 07:07:36.434
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4895] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+50
+00:00:02,044 --> 00:00:02,085
+<font size="28">SrtCnt : 50, DiffTime : 41ms
+2025-01-19 07:07:36.479
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4895] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+51
+00:00:02,085 --> 00:00:02,127
+<font size="28">SrtCnt : 51, DiffTime : 42ms
+2025-01-19 07:07:36.517
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4893] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+52
+00:00:02,127 --> 00:00:02,169
+<font size="28">SrtCnt : 52, DiffTime : 42ms
+2025-01-19 07:07:36.559
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4893] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+53
+00:00:02,169 --> 00:00:02,210
+<font size="28">SrtCnt : 53, DiffTime : 41ms
+2025-01-19 07:07:36.601
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4891] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+54
+00:00:02,210 --> 00:00:02,252
+<font size="28">SrtCnt : 54, DiffTime : 42ms
+2025-01-19 07:07:36.642
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4891] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+55
+00:00:02,252 --> 00:00:02,294
+<font size="28">SrtCnt : 55, DiffTime : 42ms
+2025-01-19 07:07:36.684
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4888] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+56
+00:00:02,294 --> 00:00:02,336
+<font size="28">SrtCnt : 56, DiffTime : 42ms
+2025-01-19 07:07:36.726
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4888] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+57
+00:00:02,336 --> 00:00:02,377
+<font size="28">SrtCnt : 57, DiffTime : 41ms
+2025-01-19 07:07:36.768
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4886] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+58
+00:00:02,377 --> 00:00:02,419
+<font size="28">SrtCnt : 58, DiffTime : 42ms
+2025-01-19 07:07:36.810
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4886] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+59
+00:00:02,419 --> 00:00:02,461
+<font size="28">SrtCnt : 59, DiffTime : 42ms
+2025-01-19 07:07:36.851
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4884] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+60
+00:00:02,461 --> 00:00:02,502
+<font size="28">SrtCnt : 60, DiffTime : 41ms
+2025-01-19 07:07:36.893
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4884] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+61
+00:00:02,502 --> 00:00:02,544
+<font size="28">SrtCnt : 61, DiffTime : 42ms
+2025-01-19 07:07:36.935
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4882] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+62
+00:00:02,544 --> 00:00:02,586
+<font size="28">SrtCnt : 62, DiffTime : 42ms
+2025-01-19 07:07:36.976
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4882] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+63
+00:00:02,586 --> 00:00:02,628
+<font size="28">SrtCnt : 63, DiffTime : 42ms
+2025-01-19 07:07:37.018
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4880] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+64
+00:00:02,628 --> 00:00:02,669
+<font size="28">SrtCnt : 64, DiffTime : 41ms
+2025-01-19 07:07:37.060
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4880] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+65
+00:00:02,669 --> 00:00:02,711
+<font size="28">SrtCnt : 65, DiffTime : 42ms
+2025-01-19 07:07:37.101
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4878] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+66
+00:00:02,711 --> 00:00:02,753
+<font size="28">SrtCnt : 66, DiffTime : 42ms
+2025-01-19 07:07:37.143
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4878] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+67
+00:00:02,753 --> 00:00:02,794
+<font size="28">SrtCnt : 67, DiffTime : 41ms
+2025-01-19 07:07:37.185
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4877] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+68
+00:00:02,794 --> 00:00:02,836
+<font size="28">SrtCnt : 68, DiffTime : 42ms
+2025-01-19 07:07:37.227
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4877] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+69
+00:00:02,836 --> 00:00:02,878
+<font size="28">SrtCnt : 69, DiffTime : 42ms
+2025-01-19 07:07:37.268
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4876] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+70
+00:00:02,878 --> 00:00:02,920
+<font size="28">SrtCnt : 70, DiffTime : 42ms
+2025-01-19 07:07:37.310
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4876] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+71
+00:00:02,920 --> 00:00:02,961
+<font size="28">SrtCnt : 71, DiffTime : 41ms
+2025-01-19 07:07:37.352
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4875] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+72
+00:00:02,961 --> 00:00:03,003
+<font size="28">SrtCnt : 72, DiffTime : 42ms
+2025-01-19 07:07:37.394
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4875] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+73
+00:00:03,003 --> 00:00:03,045
+<font size="28">SrtCnt : 73, DiffTime : 42ms
+2025-01-19 07:07:37.435
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4875] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+74
+00:00:03,045 --> 00:00:03,086
+<font size="28">SrtCnt : 74, DiffTime : 41ms
+2025-01-19 07:07:37.477
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4875] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+75
+00:00:03,086 --> 00:00:03,128
+<font size="28">SrtCnt : 75, DiffTime : 42ms
+2025-01-19 07:07:37.519
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4874] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+76
+00:00:03,128 --> 00:00:03,170
+<font size="28">SrtCnt : 76, DiffTime : 42ms
+2025-01-19 07:07:37.560
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4874] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+77
+00:00:03,170 --> 00:00:03,212
+<font size="28">SrtCnt : 77, DiffTime : 42ms
+2025-01-19 07:07:37.602
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4874] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+78
+00:00:03,212 --> 00:00:03,253
+<font size="28">SrtCnt : 78, DiffTime : 41ms
+2025-01-19 07:07:37.644
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4874] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+79
+00:00:03,253 --> 00:00:03,295
+<font size="28">SrtCnt : 79, DiffTime : 42ms
+2025-01-19 07:07:37.685
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4873] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+80
+00:00:03,295 --> 00:00:03,337
+<font size="28">SrtCnt : 80, DiffTime : 42ms
+2025-01-19 07:07:37.727
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4873] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+81
+00:00:03,337 --> 00:00:03,378
+<font size="28">SrtCnt : 81, DiffTime : 41ms
+2025-01-19 07:07:37.769
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4873] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+82
+00:00:03,378 --> 00:00:03,420
+<font size="28">SrtCnt : 82, DiffTime : 42ms
+2025-01-19 07:07:37.811
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4873] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+83
+00:00:03,420 --> 00:00:03,462
+<font size="28">SrtCnt : 83, DiffTime : 42ms
+2025-01-19 07:07:37.852
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4872] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+84
+00:00:03,462 --> 00:00:03,504
+<font size="28">SrtCnt : 84, DiffTime : 42ms
+2025-01-19 07:07:37.894
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4872] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+85
+00:00:03,504 --> 00:00:03,545
+<font size="28">SrtCnt : 85, DiffTime : 41ms
+2025-01-19 07:07:37.936
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4872] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+86
+00:00:03,545 --> 00:00:03,587
+<font size="28">SrtCnt : 86, DiffTime : 42ms
+2025-01-19 07:07:37.977
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4872] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+87
+00:00:03,587 --> 00:00:03,629
+<font size="28">SrtCnt : 87, DiffTime : 42ms
+2025-01-19 07:07:38.019
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4872] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+88
+00:00:03,629 --> 00:00:03,670
+<font size="28">SrtCnt : 88, DiffTime : 41ms
+2025-01-19 07:07:38.061
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4872] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+89
+00:00:03,670 --> 00:00:03,712
+<font size="28">SrtCnt : 89, DiffTime : 42ms
+2025-01-19 07:07:38.103
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4872] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+90
+00:00:03,712 --> 00:00:03,754
+<font size="28">SrtCnt : 90, DiffTime : 42ms
+2025-01-19 07:07:38.144
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4872] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+91
+00:00:03,754 --> 00:00:03,796
+<font size="28">SrtCnt : 91, DiffTime : 42ms
+2025-01-19 07:07:38.186
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4872] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+92
+00:00:03,796 --> 00:00:03,837
+<font size="28">SrtCnt : 92, DiffTime : 41ms
+2025-01-19 07:07:38.228
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4872] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+93
+00:00:03,837 --> 00:00:03,879
+<font size="28">SrtCnt : 93, DiffTime : 42ms
+2025-01-19 07:07:38.269
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4873] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+94
+00:00:03,879 --> 00:00:03,921
+<font size="28">SrtCnt : 94, DiffTime : 42ms
+2025-01-19 07:07:38.311
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4873] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+95
+00:00:03,921 --> 00:00:03,962
+<font size="28">SrtCnt : 95, DiffTime : 41ms
+2025-01-19 07:07:38.353
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4875] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+96
+00:00:03,962 --> 00:00:04,004
+<font size="28">SrtCnt : 96, DiffTime : 42ms
+2025-01-19 07:07:38.395
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4875] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+97
+00:00:04,004 --> 00:00:04,046
+<font size="28">SrtCnt : 97, DiffTime : 42ms
+2025-01-19 07:07:38.436
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4877] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+98
+00:00:04,046 --> 00:00:04,088
+<font size="28">SrtCnt : 98, DiffTime : 42ms
+2025-01-19 07:07:38.478
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4877] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+99
+00:00:04,088 --> 00:00:04,129
+<font size="28">SrtCnt : 99, DiffTime : 41ms
+2025-01-19 07:07:38.520
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4880] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+100
+00:00:04,129 --> 00:00:04,171
+<font size="28">SrtCnt : 100, DiffTime : 42ms
+2025-01-19 07:07:38.561
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4880] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+101
+00:00:04,171 --> 00:00:04,213
+<font size="28">SrtCnt : 101, DiffTime : 42ms
+2025-01-19 07:07:38.603
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4885] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+102
+00:00:04,213 --> 00:00:04,254
+<font size="28">SrtCnt : 102, DiffTime : 41ms
+2025-01-19 07:07:38.645
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4885] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+103
+00:00:04,254 --> 00:00:04,296
+<font size="28">SrtCnt : 103, DiffTime : 42ms
+2025-01-19 07:07:38.687
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4890] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+104
+00:00:04,296 --> 00:00:04,338
+<font size="28">SrtCnt : 104, DiffTime : 42ms
+2025-01-19 07:07:38.728
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4890] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+105
+00:00:04,338 --> 00:00:04,380
+<font size="28">SrtCnt : 105, DiffTime : 42ms
+2025-01-19 07:07:38.770
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4896] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+106
+00:00:04,380 --> 00:00:04,421
+<font size="28">SrtCnt : 106, DiffTime : 41ms
+2025-01-19 07:07:38.812
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4896] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+107
+00:00:04,421 --> 00:00:04,463
+<font size="28">SrtCnt : 107, DiffTime : 42ms
+2025-01-19 07:07:38.853
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4902] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+108
+00:00:04,463 --> 00:00:04,505
+<font size="28">SrtCnt : 108, DiffTime : 42ms
+2025-01-19 07:07:38.895
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4902] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+109
+00:00:04,505 --> 00:00:04,546
+<font size="28">SrtCnt : 109, DiffTime : 41ms
+2025-01-19 07:07:38.937
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4909] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+110
+00:00:04,546 --> 00:00:04,588
+<font size="28">SrtCnt : 110, DiffTime : 42ms
+2025-01-19 07:07:38.979
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4909] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+111
+00:00:04,588 --> 00:00:04,630
+<font size="28">SrtCnt : 111, DiffTime : 42ms
+2025-01-19 07:07:39.020
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4916] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+112
+00:00:04,630 --> 00:00:04,672
+<font size="28">SrtCnt : 112, DiffTime : 42ms
+2025-01-19 07:07:39.062
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4916] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034523] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+113
+00:00:04,672 --> 00:00:04,713
+<font size="28">SrtCnt : 113, DiffTime : 41ms
+2025-01-19 07:07:39.104
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4924] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+114
+00:00:04,713 --> 00:00:04,755
+<font size="28">SrtCnt : 114, DiffTime : 42ms
+2025-01-19 07:07:39.145
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4924] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+115
+00:00:04,755 --> 00:00:04,797
+<font size="28">SrtCnt : 115, DiffTime : 42ms
+2025-01-19 07:07:39.187
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4932] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+116
+00:00:04,797 --> 00:00:04,838
+<font size="28">SrtCnt : 116, DiffTime : 41ms
+2025-01-19 07:07:39.229
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4932] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+117
+00:00:04,838 --> 00:00:04,880
+<font size="28">SrtCnt : 117, DiffTime : 42ms
+2025-01-19 07:07:39.270
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4941] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+118
+00:00:04,880 --> 00:00:04,922
+<font size="28">SrtCnt : 118, DiffTime : 42ms
+2025-01-19 07:07:39.313
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4941] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+119
+00:00:04,922 --> 00:00:04,964
+<font size="28">SrtCnt : 119, DiffTime : 42ms
+2025-01-19 07:07:39.354
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4948] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+120
+00:00:04,964 --> 00:00:05,005
+<font size="28">SrtCnt : 120, DiffTime : 41ms
+2025-01-19 07:07:39.396
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4948] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+121
+00:00:05,005 --> 00:00:05,047
+<font size="28">SrtCnt : 121, DiffTime : 42ms
+2025-01-19 07:07:39.437
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4955] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+122
+00:00:05,047 --> 00:00:05,089
+<font size="28">SrtCnt : 122, DiffTime : 42ms
+2025-01-19 07:07:39.479
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4955] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+123
+00:00:05,089 --> 00:00:05,130
+<font size="28">SrtCnt : 123, DiffTime : 41ms
+2025-01-19 07:07:39.521
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4961] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+124
+00:00:05,130 --> 00:00:05,172
+<font size="28">SrtCnt : 124, DiffTime : 42ms
+2025-01-19 07:07:39.563
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4961] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+125
+00:00:05,172 --> 00:00:05,214
+<font size="28">SrtCnt : 125, DiffTime : 42ms
+2025-01-19 07:07:39.604
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4968] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+126
+00:00:05,214 --> 00:00:05,256
+<font size="28">SrtCnt : 126, DiffTime : 42ms
+2025-01-19 07:07:39.646
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4968] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+127
+00:00:05,256 --> 00:00:05,297
+<font size="28">SrtCnt : 127, DiffTime : 41ms
+2025-01-19 07:07:39.688
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4974] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+128
+00:00:05,297 --> 00:00:05,339
+<font size="28">SrtCnt : 128, DiffTime : 42ms
+2025-01-19 07:07:39.729
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4974] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+129
+00:00:05,339 --> 00:00:05,381
+<font size="28">SrtCnt : 129, DiffTime : 42ms
+2025-01-19 07:07:39.771
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4980] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+130
+00:00:05,381 --> 00:00:05,422
+<font size="28">SrtCnt : 130, DiffTime : 41ms
+2025-01-19 07:07:39.813
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4980] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+131
+00:00:05,422 --> 00:00:05,464
+<font size="28">SrtCnt : 131, DiffTime : 42ms
+2025-01-19 07:07:39.854
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4985] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+132
+00:00:05,464 --> 00:00:05,506
+<font size="28">SrtCnt : 132, DiffTime : 42ms
+2025-01-19 07:07:39.896
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4985] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+133
+00:00:05,506 --> 00:00:05,548
+<font size="28">SrtCnt : 133, DiffTime : 42ms
+2025-01-19 07:07:39.942
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4990] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+134
+00:00:05,548 --> 00:00:05,589
+<font size="28">SrtCnt : 134, DiffTime : 41ms
+2025-01-19 07:07:39.980
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4990] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+135
+00:00:05,589 --> 00:00:05,631
+<font size="28">SrtCnt : 135, DiffTime : 42ms
+2025-01-19 07:07:40.021
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4995] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+136
+00:00:05,631 --> 00:00:05,673
+<font size="28">SrtCnt : 136, DiffTime : 42ms
+2025-01-19 07:07:40.063
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4995] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+137
+00:00:05,673 --> 00:00:05,714
+<font size="28">SrtCnt : 137, DiffTime : 41ms
+2025-01-19 07:07:40.105
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5000] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+138
+00:00:05,714 --> 00:00:05,756
+<font size="28">SrtCnt : 138, DiffTime : 42ms
+2025-01-19 07:07:40.147
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5000] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+139
+00:00:05,756 --> 00:00:05,798
+<font size="28">SrtCnt : 139, DiffTime : 42ms
+2025-01-19 07:07:40.192
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5004] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+140
+00:00:05,798 --> 00:00:05,840
+<font size="28">SrtCnt : 140, DiffTime : 42ms
+2025-01-19 07:07:40.230
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5004] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+141
+00:00:05,840 --> 00:00:05,881
+<font size="28">SrtCnt : 141, DiffTime : 41ms
+2025-01-19 07:07:40.272
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5008] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+142
+00:00:05,881 --> 00:00:05,923
+<font size="28">SrtCnt : 142, DiffTime : 42ms
+2025-01-19 07:07:40.313
+[iso : 2260] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5008] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+143
+00:00:05,923 --> 00:00:05,965
+<font size="28">SrtCnt : 143, DiffTime : 42ms
+2025-01-19 07:07:40.355
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5012] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+144
+00:00:05,965 --> 00:00:06,006
+<font size="28">SrtCnt : 144, DiffTime : 41ms
+2025-01-19 07:07:40.397
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5012] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+145
+00:00:06,006 --> 00:00:06,048
+<font size="28">SrtCnt : 145, DiffTime : 42ms
+2025-01-19 07:07:40.439
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5016] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+146
+00:00:06,048 --> 00:00:06,090
+<font size="28">SrtCnt : 146, DiffTime : 42ms
+2025-01-19 07:07:40.480
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5016] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+147
+00:00:06,090 --> 00:00:06,132
+<font size="28">SrtCnt : 147, DiffTime : 42ms
+2025-01-19 07:07:40.522
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5019] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+148
+00:00:06,132 --> 00:00:06,173
+<font size="28">SrtCnt : 148, DiffTime : 41ms
+2025-01-19 07:07:40.564
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5019] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+149
+00:00:06,173 --> 00:00:06,215
+<font size="28">SrtCnt : 149, DiffTime : 42ms
+2025-01-19 07:07:40.606
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5021] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+150
+00:00:06,215 --> 00:00:06,257
+<font size="28">SrtCnt : 150, DiffTime : 42ms
+2025-01-19 07:07:40.648
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5021] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+151
+00:00:06,257 --> 00:00:06,298
+<font size="28">SrtCnt : 151, DiffTime : 41ms
+2025-01-19 07:07:40.689
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5024] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+152
+00:00:06,298 --> 00:00:06,340
+<font size="28">SrtCnt : 152, DiffTime : 42ms
+2025-01-19 07:07:40.731
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5024] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+153
+00:00:06,340 --> 00:00:06,382
+<font size="28">SrtCnt : 153, DiffTime : 42ms
+2025-01-19 07:07:40.772
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5026] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+154
+00:00:06,382 --> 00:00:06,424
+<font size="28">SrtCnt : 154, DiffTime : 42ms
+2025-01-19 07:07:40.814
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5026] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+155
+00:00:06,424 --> 00:00:06,465
+<font size="28">SrtCnt : 155, DiffTime : 41ms
+2025-01-19 07:07:40.856
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5028] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+156
+00:00:06,465 --> 00:00:06,507
+<font size="28">SrtCnt : 156, DiffTime : 42ms
+2025-01-19 07:07:40.897
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5028] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+157
+00:00:06,507 --> 00:00:06,549
+<font size="28">SrtCnt : 157, DiffTime : 42ms
+2025-01-19 07:07:40.939
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5030] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+158
+00:00:06,549 --> 00:00:06,590
+<font size="28">SrtCnt : 158, DiffTime : 41ms
+2025-01-19 07:07:40.981
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5030] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+159
+00:00:06,590 --> 00:00:06,632
+<font size="28">SrtCnt : 159, DiffTime : 42ms
+2025-01-19 07:07:41.022
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5032] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+160
+00:00:06,632 --> 00:00:06,674
+<font size="28">SrtCnt : 160, DiffTime : 42ms
+2025-01-19 07:07:41.064
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5032] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+161
+00:00:06,674 --> 00:00:06,716
+<font size="28">SrtCnt : 161, DiffTime : 42ms
+2025-01-19 07:07:41.106
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5033] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+162
+00:00:06,716 --> 00:00:06,757
+<font size="28">SrtCnt : 162, DiffTime : 41ms
+2025-01-19 07:07:41.148
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5033] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+163
+00:00:06,757 --> 00:00:06,799
+<font size="28">SrtCnt : 163, DiffTime : 42ms
+2025-01-19 07:07:41.189
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5034] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+164
+00:00:06,799 --> 00:00:06,841
+<font size="28">SrtCnt : 164, DiffTime : 42ms
+2025-01-19 07:07:41.232
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5034] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+165
+00:00:06,841 --> 00:00:06,882
+<font size="28">SrtCnt : 165, DiffTime : 41ms
+2025-01-19 07:07:41.273
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5035] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+166
+00:00:06,882 --> 00:00:06,924
+<font size="28">SrtCnt : 166, DiffTime : 42ms
+2025-01-19 07:07:41.315
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5035] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+167
+00:00:06,924 --> 00:00:06,966
+<font size="28">SrtCnt : 167, DiffTime : 42ms
+2025-01-19 07:07:41.360
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5036] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+168
+00:00:06,966 --> 00:00:07,008
+<font size="28">SrtCnt : 168, DiffTime : 42ms
+2025-01-19 07:07:41.399
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5036] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+169
+00:00:07,008 --> 00:00:07,049
+<font size="28">SrtCnt : 169, DiffTime : 41ms
+2025-01-19 07:07:41.440
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5037] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+170
+00:00:07,049 --> 00:00:07,091
+<font size="28">SrtCnt : 170, DiffTime : 42ms
+2025-01-19 07:07:41.481
+[iso : 2250] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5037] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+171
+00:00:07,091 --> 00:00:07,133
+<font size="28">SrtCnt : 171, DiffTime : 42ms
+2025-01-19 07:07:41.523
+[iso : 2230] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5037] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+172
+00:00:07,133 --> 00:00:07,174
+<font size="28">SrtCnt : 172, DiffTime : 41ms
+2025-01-19 07:07:41.565
+[iso : 2230] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5037] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+173
+00:00:07,174 --> 00:00:07,216
+<font size="28">SrtCnt : 173, DiffTime : 42ms
+2025-01-19 07:07:41.607
+[iso : 2220] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5037] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+174
+00:00:07,216 --> 00:00:07,258
+<font size="28">SrtCnt : 174, DiffTime : 42ms
+2025-01-19 07:07:41.648
+[iso : 2220] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5037] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+175
+00:00:07,258 --> 00:00:07,300
+<font size="28">SrtCnt : 175, DiffTime : 42ms
+2025-01-19 07:07:41.690
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5036] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+176
+00:00:07,300 --> 00:00:07,341
+<font size="28">SrtCnt : 176, DiffTime : 41ms
+2025-01-19 07:07:41.732
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5036] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+177
+00:00:07,341 --> 00:00:07,383
+<font size="28">SrtCnt : 177, DiffTime : 42ms
+2025-01-19 07:07:41.773
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5035] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+178
+00:00:07,383 --> 00:00:07,425
+<font size="28">SrtCnt : 178, DiffTime : 42ms
+2025-01-19 07:07:41.815
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5035] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+179
+00:00:07,425 --> 00:00:07,466
+<font size="28">SrtCnt : 179, DiffTime : 41ms
+2025-01-19 07:07:41.857
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5034] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+180
+00:00:07,466 --> 00:00:07,508
+<font size="28">SrtCnt : 180, DiffTime : 42ms
+2025-01-19 07:07:41.899
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5034] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+181
+00:00:07,508 --> 00:00:07,550
+<font size="28">SrtCnt : 181, DiffTime : 42ms
+2025-01-19 07:07:41.940
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5031] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+182
+00:00:07,550 --> 00:00:07,592
+<font size="28">SrtCnt : 182, DiffTime : 42ms
+2025-01-19 07:07:41.982
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5031] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+183
+00:00:07,592 --> 00:00:07,633
+<font size="28">SrtCnt : 183, DiffTime : 41ms
+2025-01-19 07:07:42.024
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5028] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+184
+00:00:07,633 --> 00:00:07,675
+<font size="28">SrtCnt : 184, DiffTime : 42ms
+2025-01-19 07:07:42.066
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5028] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+185
+00:00:07,675 --> 00:00:07,717
+<font size="28">SrtCnt : 185, DiffTime : 42ms
+2025-01-19 07:07:42.107
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5024] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+186
+00:00:07,717 --> 00:00:07,758
+<font size="28">SrtCnt : 186, DiffTime : 41ms
+2025-01-19 07:07:42.149
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5024] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+187
+00:00:07,758 --> 00:00:07,800
+<font size="28">SrtCnt : 187, DiffTime : 42ms
+2025-01-19 07:07:42.194
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5021] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+188
+00:00:07,800 --> 00:00:07,842
+<font size="28">SrtCnt : 188, DiffTime : 42ms
+2025-01-19 07:07:42.232
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5021] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+189
+00:00:07,842 --> 00:00:07,884
+<font size="28">SrtCnt : 189, DiffTime : 42ms
+2025-01-19 07:07:42.274
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5017] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+190
+00:00:07,884 --> 00:00:07,925
+<font size="28">SrtCnt : 190, DiffTime : 41ms
+2025-01-19 07:07:42.316
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5017] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+191
+00:00:07,925 --> 00:00:07,967
+<font size="28">SrtCnt : 191, DiffTime : 42ms
+2025-01-19 07:07:42.357
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5014] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+192
+00:00:07,967 --> 00:00:08,009
+<font size="28">SrtCnt : 192, DiffTime : 42ms
+2025-01-19 07:07:42.399
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5014] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+193
+00:00:08,009 --> 00:00:08,050
+<font size="28">SrtCnt : 193, DiffTime : 41ms
+2025-01-19 07:07:42.441
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5010] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+194
+00:00:08,050 --> 00:00:08,092
+<font size="28">SrtCnt : 194, DiffTime : 42ms
+2025-01-19 07:07:42.483
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5010] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+195
+00:00:08,092 --> 00:00:08,134
+<font size="28">SrtCnt : 195, DiffTime : 42ms
+2025-01-19 07:07:42.524
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5007] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+196
+00:00:08,134 --> 00:00:08,176
+<font size="28">SrtCnt : 196, DiffTime : 42ms
+2025-01-19 07:07:42.566
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5007] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+197
+00:00:08,176 --> 00:00:08,217
+<font size="28">SrtCnt : 197, DiffTime : 41ms
+2025-01-19 07:07:42.608
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5005] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+198
+00:00:08,217 --> 00:00:08,259
+<font size="28">SrtCnt : 198, DiffTime : 42ms
+2025-01-19 07:07:42.650
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5005] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+199
+00:00:08,259 --> 00:00:08,301
+<font size="28">SrtCnt : 199, DiffTime : 42ms
+2025-01-19 07:07:42.691
+[iso : 2200] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5002] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+200
+00:00:08,301 --> 00:00:08,342
+<font size="28">SrtCnt : 200, DiffTime : 41ms
+2025-01-19 07:07:42.733
+[iso : 2190] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5002] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+201
+00:00:08,342 --> 00:00:08,384
+<font size="28">SrtCnt : 201, DiffTime : 42ms
+2025-01-19 07:07:42.774
+[iso : 2170] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4999] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+202
+00:00:08,384 --> 00:00:08,426
+<font size="28">SrtCnt : 202, DiffTime : 42ms
+2025-01-19 07:07:42.816
+[iso : 2170] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4999] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+203
+00:00:08,426 --> 00:00:08,468
+<font size="28">SrtCnt : 203, DiffTime : 42ms
+2025-01-19 07:07:42.859
+[iso : 2160] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4997] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+204
+00:00:08,468 --> 00:00:08,509
+<font size="28">SrtCnt : 204, DiffTime : 41ms
+2025-01-19 07:07:42.900
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4997] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+205
+00:00:08,509 --> 00:00:08,551
+<font size="28">SrtCnt : 205, DiffTime : 42ms
+2025-01-19 07:07:42.941
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4995] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+206
+00:00:08,551 --> 00:00:08,593
+<font size="28">SrtCnt : 206, DiffTime : 42ms
+2025-01-19 07:07:42.983
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4995] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+207
+00:00:08,593 --> 00:00:08,634
+<font size="28">SrtCnt : 207, DiffTime : 41ms
+2025-01-19 07:07:43.025
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4993] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+208
+00:00:08,634 --> 00:00:08,676
+<font size="28">SrtCnt : 208, DiffTime : 42ms
+2025-01-19 07:07:43.067
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4993] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+209
+00:00:08,676 --> 00:00:08,718
+<font size="28">SrtCnt : 209, DiffTime : 42ms
+2025-01-19 07:07:43.108
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4992] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+210
+00:00:08,718 --> 00:00:08,760
+<font size="28">SrtCnt : 210, DiffTime : 42ms
+2025-01-19 07:07:43.150
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4992] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+211
+00:00:08,760 --> 00:00:08,801
+<font size="28">SrtCnt : 211, DiffTime : 41ms
+2025-01-19 07:07:43.192
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4990] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+212
+00:00:08,801 --> 00:00:08,843
+<font size="28">SrtCnt : 212, DiffTime : 42ms
+2025-01-19 07:07:43.233
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4990] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+213
+00:00:08,843 --> 00:00:08,885
+<font size="28">SrtCnt : 213, DiffTime : 42ms
+2025-01-19 07:07:43.279
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4988] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+214
+00:00:08,885 --> 00:00:08,926
+<font size="28">SrtCnt : 214, DiffTime : 41ms
+2025-01-19 07:07:43.317
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4988] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+215
+00:00:08,926 --> 00:00:08,968
+<font size="28">SrtCnt : 215, DiffTime : 42ms
+2025-01-19 07:07:43.358
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4986] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+216
+00:00:08,968 --> 00:00:09,010
+<font size="28">SrtCnt : 216, DiffTime : 42ms
+2025-01-19 07:07:43.400
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4986] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+217
+00:00:09,010 --> 00:00:09,052
+<font size="28">SrtCnt : 217, DiffTime : 42ms
+2025-01-19 07:07:43.442
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4983] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+218
+00:00:09,052 --> 00:00:09,093
+<font size="28">SrtCnt : 218, DiffTime : 41ms
+2025-01-19 07:07:43.484
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4983] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+219
+00:00:09,093 --> 00:00:09,135
+<font size="28">SrtCnt : 219, DiffTime : 42ms
+2025-01-19 07:07:43.525
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4980] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+220
+00:00:09,135 --> 00:00:09,177
+<font size="28">SrtCnt : 220, DiffTime : 42ms
+2025-01-19 07:07:43.567
+[iso : 2150] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4980] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+221
+00:00:09,177 --> 00:00:09,218
+<font size="28">SrtCnt : 221, DiffTime : 41ms
+2025-01-19 07:07:43.609
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4977] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+222
+00:00:09,218 --> 00:00:09,260
+<font size="28">SrtCnt : 222, DiffTime : 42ms
+2025-01-19 07:07:43.650
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4977] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+223
+00:00:09,260 --> 00:00:09,302
+<font size="28">SrtCnt : 223, DiffTime : 42ms
+2025-01-19 07:07:43.692
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4973] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+224
+00:00:09,302 --> 00:00:09,344
+<font size="28">SrtCnt : 224, DiffTime : 42ms
+2025-01-19 07:07:43.734
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4973] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+225
+00:00:09,344 --> 00:00:09,385
+<font size="28">SrtCnt : 225, DiffTime : 41ms
+2025-01-19 07:07:43.776
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4968] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+226
+00:00:09,385 --> 00:00:09,427
+<font size="28">SrtCnt : 226, DiffTime : 42ms
+2025-01-19 07:07:43.818
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4968] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+227
+00:00:09,427 --> 00:00:09,469
+<font size="28">SrtCnt : 227, DiffTime : 42ms
+2025-01-19 07:07:43.859
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4964] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+228
+00:00:09,469 --> 00:00:09,510
+<font size="28">SrtCnt : 228, DiffTime : 41ms
+2025-01-19 07:07:43.901
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4964] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+229
+00:00:09,510 --> 00:00:09,552
+<font size="28">SrtCnt : 229, DiffTime : 42ms
+2025-01-19 07:07:43.943
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4959] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+230
+00:00:09,552 --> 00:00:09,594
+<font size="28">SrtCnt : 230, DiffTime : 42ms
+2025-01-19 07:07:43.984
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4959] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+231
+00:00:09,594 --> 00:00:09,636
+<font size="28">SrtCnt : 231, DiffTime : 42ms
+2025-01-19 07:07:44.026
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4954] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+232
+00:00:09,636 --> 00:00:09,677
+<font size="28">SrtCnt : 232, DiffTime : 41ms
+2025-01-19 07:07:44.068
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4954] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+233
+00:00:09,677 --> 00:00:09,719
+<font size="28">SrtCnt : 233, DiffTime : 42ms
+2025-01-19 07:07:44.109
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4949] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+234
+00:00:09,719 --> 00:00:09,761
+<font size="28">SrtCnt : 234, DiffTime : 42ms
+2025-01-19 07:07:44.151
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4949] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+235
+00:00:09,761 --> 00:00:09,802
+<font size="28">SrtCnt : 235, DiffTime : 41ms
+2025-01-19 07:07:44.193
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4944] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+236
+00:00:09,802 --> 00:00:09,844
+<font size="28">SrtCnt : 236, DiffTime : 42ms
+2025-01-19 07:07:44.235
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4944] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+237
+00:00:09,844 --> 00:00:09,886
+<font size="28">SrtCnt : 237, DiffTime : 42ms
+2025-01-19 07:07:44.276
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4940] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+238
+00:00:09,886 --> 00:00:09,928
+<font size="28">SrtCnt : 238, DiffTime : 42ms
+2025-01-19 07:07:44.319
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4940] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+239
+00:00:09,928 --> 00:00:09,969
+<font size="28">SrtCnt : 239, DiffTime : 41ms
+2025-01-19 07:07:44.360
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4935] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+240
+00:00:09,969 --> 00:00:10,011
+<font size="28">SrtCnt : 240, DiffTime : 42ms
+2025-01-19 07:07:44.402
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4935] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+241
+00:00:10,011 --> 00:00:10,053
+<font size="28">SrtCnt : 241, DiffTime : 42ms
+2025-01-19 07:07:44.443
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4932] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+242
+00:00:10,053 --> 00:00:10,094
+<font size="28">SrtCnt : 242, DiffTime : 41ms
+2025-01-19 07:07:44.485
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4932] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+243
+00:00:10,094 --> 00:00:10,136
+<font size="28">SrtCnt : 243, DiffTime : 42ms
+2025-01-19 07:07:44.527
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4927] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+244
+00:00:10,136 --> 00:00:10,178
+<font size="28">SrtCnt : 244, DiffTime : 42ms
+2025-01-19 07:07:44.570
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4927] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+245
+00:00:10,178 --> 00:00:10,220
+<font size="28">SrtCnt : 245, DiffTime : 42ms
+2025-01-19 07:07:44.610
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4924] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+246
+00:00:10,220 --> 00:00:10,261
+<font size="28">SrtCnt : 246, DiffTime : 41ms
+2025-01-19 07:07:44.652
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4924] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732564] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+247
+00:00:10,261 --> 00:00:10,303
+<font size="28">SrtCnt : 247, DiffTime : 42ms
+2025-01-19 07:07:44.693
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4920] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+248
+00:00:10,303 --> 00:00:10,345
+<font size="28">SrtCnt : 248, DiffTime : 42ms
+2025-01-19 07:07:44.736
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4920] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+249
+00:00:10,345 --> 00:00:10,386
+<font size="28">SrtCnt : 249, DiffTime : 41ms
+2025-01-19 07:07:44.778
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4917] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+250
+00:00:10,386 --> 00:00:10,428
+<font size="28">SrtCnt : 250, DiffTime : 42ms
+2025-01-19 07:07:44.820
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4917] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+251
+00:00:10,428 --> 00:00:10,470
+<font size="28">SrtCnt : 251, DiffTime : 42ms
+2025-01-19 07:07:44.860
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4914] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+252
+00:00:10,470 --> 00:00:10,512
+<font size="28">SrtCnt : 252, DiffTime : 42ms
+2025-01-19 07:07:44.902
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4914] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+253
+00:00:10,512 --> 00:00:10,553
+<font size="28">SrtCnt : 253, DiffTime : 41ms
+2025-01-19 07:07:44.944
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4911] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+254
+00:00:10,553 --> 00:00:10,595
+<font size="28">SrtCnt : 254, DiffTime : 42ms
+2025-01-19 07:07:44.986
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4911] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+255
+00:00:10,595 --> 00:00:10,637
+<font size="28">SrtCnt : 255, DiffTime : 42ms
+2025-01-19 07:07:45.027
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4908] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+256
+00:00:10,637 --> 00:00:10,678
+<font size="28">SrtCnt : 256, DiffTime : 41ms
+2025-01-19 07:07:45.069
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4908] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+257
+00:00:10,678 --> 00:00:10,720
+<font size="28">SrtCnt : 257, DiffTime : 42ms
+2025-01-19 07:07:45.111
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4905] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+258
+00:00:10,720 --> 00:00:10,762
+<font size="28">SrtCnt : 258, DiffTime : 42ms
+2025-01-19 07:07:45.152
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4905] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+259
+00:00:10,762 --> 00:00:10,804
+<font size="28">SrtCnt : 259, DiffTime : 42ms
+2025-01-19 07:07:45.194
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4901] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+260
+00:00:10,804 --> 00:00:10,845
+<font size="28">SrtCnt : 260, DiffTime : 41ms
+2025-01-19 07:07:45.236
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4901] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+261
+00:00:10,845 --> 00:00:10,887
+<font size="28">SrtCnt : 261, DiffTime : 42ms
+2025-01-19 07:07:45.277
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4898] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+262
+00:00:10,887 --> 00:00:10,929
+<font size="28">SrtCnt : 262, DiffTime : 42ms
+2025-01-19 07:07:45.319
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4898] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+263
+00:00:10,929 --> 00:00:10,970
+<font size="28">SrtCnt : 263, DiffTime : 41ms
+2025-01-19 07:07:45.361
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4895] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+264
+00:00:10,970 --> 00:00:11,012
+<font size="28">SrtCnt : 264, DiffTime : 42ms
+2025-01-19 07:07:45.403
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4895] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+265
+00:00:11,012 --> 00:00:11,054
+<font size="28">SrtCnt : 265, DiffTime : 42ms
+2025-01-19 07:07:45.444
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4892] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+266
+00:00:11,054 --> 00:00:11,096
+<font size="28">SrtCnt : 266, DiffTime : 42ms
+2025-01-19 07:07:45.486
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4892] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+267
+00:00:11,096 --> 00:00:11,137
+<font size="28">SrtCnt : 267, DiffTime : 41ms
+2025-01-19 07:07:45.528
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4888] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+268
+00:00:11,137 --> 00:00:11,179
+<font size="28">SrtCnt : 268, DiffTime : 42ms
+2025-01-19 07:07:45.570
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4888] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+269
+00:00:11,179 --> 00:00:11,221
+<font size="28">SrtCnt : 269, DiffTime : 42ms
+2025-01-19 07:07:45.611
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4885] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+270
+00:00:11,221 --> 00:00:11,262
+<font size="28">SrtCnt : 270, DiffTime : 41ms
+2025-01-19 07:07:45.653
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4885] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+271
+00:00:11,262 --> 00:00:11,304
+<font size="28">SrtCnt : 271, DiffTime : 42ms
+2025-01-19 07:07:45.695
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4881] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+272
+00:00:11,304 --> 00:00:11,346
+<font size="28">SrtCnt : 272, DiffTime : 42ms
+2025-01-19 07:07:45.736
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4881] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+273
+00:00:11,346 --> 00:00:11,388
+<font size="28">SrtCnt : 273, DiffTime : 42ms
+2025-01-19 07:07:45.778
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4878] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+274
+00:00:11,388 --> 00:00:11,429
+<font size="28">SrtCnt : 274, DiffTime : 41ms
+2025-01-19 07:07:45.820
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4878] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+275
+00:00:11,429 --> 00:00:11,471
+<font size="28">SrtCnt : 275, DiffTime : 42ms
+2025-01-19 07:07:45.862
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4875] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+276
+00:00:11,471 --> 00:00:11,513
+<font size="28">SrtCnt : 276, DiffTime : 42ms
+2025-01-19 07:07:45.903
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4875] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+277
+00:00:11,513 --> 00:00:11,554
+<font size="28">SrtCnt : 277, DiffTime : 41ms
+2025-01-19 07:07:45.945
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4871] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+278
+00:00:11,554 --> 00:00:11,596
+<font size="28">SrtCnt : 278, DiffTime : 42ms
+2025-01-19 07:07:45.987
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4871] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+279
+00:00:11,596 --> 00:00:11,638
+<font size="28">SrtCnt : 279, DiffTime : 42ms
+2025-01-19 07:07:46.029
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4868] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+280
+00:00:11,638 --> 00:00:11,680
+<font size="28">SrtCnt : 280, DiffTime : 42ms
+2025-01-19 07:07:46.070
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4868] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+281
+00:00:11,680 --> 00:00:11,721
+<font size="28">SrtCnt : 281, DiffTime : 41ms
+2025-01-19 07:07:46.112
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4865] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+282
+00:00:11,721 --> 00:00:11,763
+<font size="28">SrtCnt : 282, DiffTime : 42ms
+2025-01-19 07:07:46.153
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4865] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+283
+00:00:11,763 --> 00:00:11,805
+<font size="28">SrtCnt : 283, DiffTime : 42ms
+2025-01-19 07:07:46.195
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4863] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+284
+00:00:11,805 --> 00:00:11,846
+<font size="28">SrtCnt : 284, DiffTime : 41ms
+2025-01-19 07:07:46.237
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4863] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+285
+00:00:11,846 --> 00:00:11,888
+<font size="28">SrtCnt : 285, DiffTime : 42ms
+2025-01-19 07:07:46.279
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4861] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+286
+00:00:11,888 --> 00:00:11,930
+<font size="28">SrtCnt : 286, DiffTime : 42ms
+2025-01-19 07:07:46.320
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4861] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+287
+00:00:11,930 --> 00:00:11,972
+<font size="28">SrtCnt : 287, DiffTime : 42ms
+2025-01-19 07:07:46.362
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4861] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+288
+00:00:11,972 --> 00:00:12,013
+<font size="28">SrtCnt : 288, DiffTime : 41ms
+2025-01-19 07:07:46.404
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4861] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+289
+00:00:12,013 --> 00:00:12,055
+<font size="28">SrtCnt : 289, DiffTime : 42ms
+2025-01-19 07:07:46.446
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4861] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+290
+00:00:12,055 --> 00:00:12,097
+<font size="28">SrtCnt : 290, DiffTime : 42ms
+2025-01-19 07:07:46.490
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4861] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+291
+00:00:12,097 --> 00:00:12,138
+<font size="28">SrtCnt : 291, DiffTime : 41ms
+2025-01-19 07:07:46.529
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4862] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+292
+00:00:12,138 --> 00:00:12,180
+<font size="28">SrtCnt : 292, DiffTime : 42ms
+2025-01-19 07:07:46.570
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4862] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+293
+00:00:12,180 --> 00:00:12,222
+<font size="28">SrtCnt : 293, DiffTime : 42ms
+2025-01-19 07:07:46.613
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4864] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+294
+00:00:12,222 --> 00:00:12,264
+<font size="28">SrtCnt : 294, DiffTime : 42ms
+2025-01-19 07:07:46.654
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4864] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+295
+00:00:12,264 --> 00:00:12,305
+<font size="28">SrtCnt : 295, DiffTime : 41ms
+2025-01-19 07:07:46.696
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4867] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+296
+00:00:12,305 --> 00:00:12,347
+<font size="28">SrtCnt : 296, DiffTime : 42ms
+2025-01-19 07:07:46.737
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4867] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+297
+00:00:12,347 --> 00:00:12,389
+<font size="28">SrtCnt : 297, DiffTime : 42ms
+2025-01-19 07:07:46.779
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4872] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+298
+00:00:12,389 --> 00:00:12,430
+<font size="28">SrtCnt : 298, DiffTime : 41ms
+2025-01-19 07:07:46.821
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4872] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+299
+00:00:12,430 --> 00:00:12,472
+<font size="28">SrtCnt : 299, DiffTime : 42ms
+2025-01-19 07:07:46.862
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4877] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+300
+00:00:12,472 --> 00:00:12,514
+<font size="28">SrtCnt : 300, DiffTime : 42ms
+2025-01-19 07:07:46.905
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4877] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+301
+00:00:12,514 --> 00:00:12,556
+<font size="28">SrtCnt : 301, DiffTime : 42ms
+2025-01-19 07:07:46.946
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4884] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+302
+00:00:12,556 --> 00:00:12,597
+<font size="28">SrtCnt : 302, DiffTime : 41ms
+2025-01-19 07:07:46.988
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4884] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+303
+00:00:12,597 --> 00:00:12,639
+<font size="28">SrtCnt : 303, DiffTime : 42ms
+2025-01-19 07:07:47.030
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4890] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+304
+00:00:12,639 --> 00:00:12,681
+<font size="28">SrtCnt : 304, DiffTime : 42ms
+2025-01-19 07:07:47.071
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4890] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+305
+00:00:12,681 --> 00:00:12,722
+<font size="28">SrtCnt : 305, DiffTime : 41ms
+2025-01-19 07:07:47.113
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4898] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+306
+00:00:12,722 --> 00:00:12,764
+<font size="28">SrtCnt : 306, DiffTime : 42ms
+2025-01-19 07:07:47.154
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4898] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+307
+00:00:12,764 --> 00:00:12,806
+<font size="28">SrtCnt : 307, DiffTime : 42ms
+2025-01-19 07:07:47.196
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4906] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+308
+00:00:12,806 --> 00:00:12,848
+<font size="28">SrtCnt : 308, DiffTime : 42ms
+2025-01-19 07:07:47.238
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4906] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+309
+00:00:12,848 --> 00:00:12,889
+<font size="28">SrtCnt : 309, DiffTime : 41ms
+2025-01-19 07:07:47.280
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4913] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+310
+00:00:12,889 --> 00:00:12,931
+<font size="28">SrtCnt : 310, DiffTime : 42ms
+2025-01-19 07:07:47.321
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4913] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+311
+00:00:12,931 --> 00:00:12,973
+<font size="28">SrtCnt : 311, DiffTime : 42ms
+2025-01-19 07:07:47.363
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4919] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+312
+00:00:12,973 --> 00:00:13,014
+<font size="28">SrtCnt : 312, DiffTime : 41ms
+2025-01-19 07:07:47.405
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4919] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+313
+00:00:13,014 --> 00:00:13,056
+<font size="28">SrtCnt : 313, DiffTime : 42ms
+2025-01-19 07:07:47.447
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4926] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+314
+00:00:13,056 --> 00:00:13,098
+<font size="28">SrtCnt : 314, DiffTime : 42ms
+2025-01-19 07:07:47.488
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4926] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+315
+00:00:13,098 --> 00:00:13,140
+<font size="28">SrtCnt : 315, DiffTime : 42ms
+2025-01-19 07:07:47.530
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4932] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+316
+00:00:13,140 --> 00:00:13,181
+<font size="28">SrtCnt : 316, DiffTime : 41ms
+2025-01-19 07:07:47.572
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4932] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+317
+00:00:13,181 --> 00:00:13,223
+<font size="28">SrtCnt : 317, DiffTime : 42ms
+2025-01-19 07:07:47.614
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4937] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+318
+00:00:13,223 --> 00:00:13,265
+<font size="28">SrtCnt : 318, DiffTime : 42ms
+2025-01-19 07:07:47.655
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4937] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+319
+00:00:13,265 --> 00:00:13,306
+<font size="28">SrtCnt : 319, DiffTime : 41ms
+2025-01-19 07:07:47.697
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4943] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+320
+00:00:13,306 --> 00:00:13,348
+<font size="28">SrtCnt : 320, DiffTime : 42ms
+2025-01-19 07:07:47.739
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4943] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+321
+00:00:13,348 --> 00:00:13,390
+<font size="28">SrtCnt : 321, DiffTime : 42ms
+2025-01-19 07:07:47.784
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4947] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+322
+00:00:13,390 --> 00:00:13,432
+<font size="28">SrtCnt : 322, DiffTime : 42ms
+2025-01-19 07:07:47.822
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4947] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+323
+00:00:13,432 --> 00:00:13,473
+<font size="28">SrtCnt : 323, DiffTime : 41ms
+2025-01-19 07:07:47.864
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4952] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+324
+00:00:13,473 --> 00:00:13,515
+<font size="28">SrtCnt : 324, DiffTime : 42ms
+2025-01-19 07:07:47.909
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4952] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+325
+00:00:13,515 --> 00:00:13,557
+<font size="28">SrtCnt : 325, DiffTime : 42ms
+2025-01-19 07:07:47.947
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4955] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+326
+00:00:13,557 --> 00:00:13,598
+<font size="28">SrtCnt : 326, DiffTime : 41ms
+2025-01-19 07:07:47.989
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4955] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+327
+00:00:13,598 --> 00:00:13,640
+<font size="28">SrtCnt : 327, DiffTime : 42ms
+2025-01-19 07:07:48.031
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4959] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+328
+00:00:13,640 --> 00:00:13,682
+<font size="28">SrtCnt : 328, DiffTime : 42ms
+2025-01-19 07:07:48.072
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4959] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+329
+00:00:13,682 --> 00:00:13,724
+<font size="28">SrtCnt : 329, DiffTime : 42ms
+2025-01-19 07:07:48.114
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4961] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+330
+00:00:13,724 --> 00:00:13,765
+<font size="28">SrtCnt : 330, DiffTime : 41ms
+2025-01-19 07:07:48.156
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4961] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+331
+00:00:13,765 --> 00:00:13,807
+<font size="28">SrtCnt : 331, DiffTime : 42ms
+2025-01-19 07:07:48.197
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4964] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+332
+00:00:13,807 --> 00:00:13,849
+<font size="28">SrtCnt : 332, DiffTime : 42ms
+2025-01-19 07:07:48.239
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4964] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+333
+00:00:13,849 --> 00:00:13,890
+<font size="28">SrtCnt : 333, DiffTime : 41ms
+2025-01-19 07:07:48.281
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4966] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+334
+00:00:13,890 --> 00:00:13,932
+<font size="28">SrtCnt : 334, DiffTime : 42ms
+2025-01-19 07:07:48.323
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4966] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+335
+00:00:13,932 --> 00:00:13,974
+<font size="28">SrtCnt : 335, DiffTime : 42ms
+2025-01-19 07:07:48.369
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4966] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+336
+00:00:13,974 --> 00:00:14,016
+<font size="28">SrtCnt : 336, DiffTime : 42ms
+2025-01-19 07:07:48.406
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4970] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+337
+00:00:14,016 --> 00:00:14,057
+<font size="28">SrtCnt : 337, DiffTime : 41ms
+2025-01-19 07:07:48.448
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4970] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+338
+00:00:14,057 --> 00:00:14,099
+<font size="28">SrtCnt : 338, DiffTime : 42ms
+2025-01-19 07:07:48.489
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4974] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+339
+00:00:14,099 --> 00:00:14,141
+<font size="28">SrtCnt : 339, DiffTime : 42ms
+2025-01-19 07:07:48.531
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4974] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+340
+00:00:14,141 --> 00:00:14,182
+<font size="28">SrtCnt : 340, DiffTime : 41ms
+2025-01-19 07:07:48.573
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4980] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+341
+00:00:14,182 --> 00:00:14,224
+<font size="28">SrtCnt : 341, DiffTime : 42ms
+2025-01-19 07:07:48.615
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4980] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+342
+00:00:14,224 --> 00:00:14,266
+<font size="28">SrtCnt : 342, DiffTime : 42ms
+2025-01-19 07:07:48.656
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4985] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+343
+00:00:14,266 --> 00:00:14,308
+<font size="28">SrtCnt : 343, DiffTime : 42ms
+2025-01-19 07:07:48.698
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4985] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+344
+00:00:14,308 --> 00:00:14,349
+<font size="28">SrtCnt : 344, DiffTime : 41ms
+2025-01-19 07:07:48.740
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4990] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+345
+00:00:14,349 --> 00:00:14,391
+<font size="28">SrtCnt : 345, DiffTime : 42ms
+2025-01-19 07:07:48.781
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4990] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+346
+00:00:14,391 --> 00:00:14,433
+<font size="28">SrtCnt : 346, DiffTime : 42ms
+2025-01-19 07:07:48.823
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4995] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+347
+00:00:14,433 --> 00:00:14,474
+<font size="28">SrtCnt : 347, DiffTime : 41ms
+2025-01-19 07:07:48.865
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4995] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+348
+00:00:14,474 --> 00:00:14,516
+<font size="28">SrtCnt : 348, DiffTime : 42ms
+2025-01-19 07:07:48.907
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4999] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+349
+00:00:14,516 --> 00:00:14,558
+<font size="28">SrtCnt : 349, DiffTime : 42ms
+2025-01-19 07:07:48.950
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4999] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+350
+00:00:14,558 --> 00:00:14,600
+<font size="28">SrtCnt : 350, DiffTime : 42ms
+2025-01-19 07:07:48.990
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5003] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+351
+00:00:14,600 --> 00:00:14,641
+<font size="28">SrtCnt : 351, DiffTime : 41ms
+2025-01-19 07:07:49.032
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5003] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+352
+00:00:14,641 --> 00:00:14,683
+<font size="28">SrtCnt : 352, DiffTime : 42ms
+2025-01-19 07:07:49.074
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5006] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+353
+00:00:14,683 --> 00:00:14,725
+<font size="28">SrtCnt : 353, DiffTime : 42ms
+2025-01-19 07:07:49.115
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5006] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+354
+00:00:14,725 --> 00:00:14,766
+<font size="28">SrtCnt : 354, DiffTime : 41ms
+2025-01-19 07:07:49.157
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5009] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+355
+00:00:14,766 --> 00:00:14,808
+<font size="28">SrtCnt : 355, DiffTime : 42ms
+2025-01-19 07:07:49.199
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5009] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+356
+00:00:14,808 --> 00:00:14,850
+<font size="28">SrtCnt : 356, DiffTime : 42ms
+2025-01-19 07:07:49.240
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5011] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+357
+00:00:14,850 --> 00:00:14,892
+<font size="28">SrtCnt : 357, DiffTime : 42ms
+2025-01-19 07:07:49.282
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5011] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+358
+00:00:14,892 --> 00:00:14,933
+<font size="28">SrtCnt : 358, DiffTime : 41ms
+2025-01-19 07:07:49.324
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5012] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+359
+00:00:14,933 --> 00:00:14,975
+<font size="28">SrtCnt : 359, DiffTime : 42ms
+2025-01-19 07:07:49.365
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5012] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+360
+00:00:14,975 --> 00:00:15,017
+<font size="28">SrtCnt : 360, DiffTime : 42ms
+2025-01-19 07:07:49.407
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5012] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+361
+00:00:15,017 --> 00:00:15,058
+<font size="28">SrtCnt : 361, DiffTime : 41ms
+2025-01-19 07:07:49.449
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5012] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+362
+00:00:15,058 --> 00:00:15,100
+<font size="28">SrtCnt : 362, DiffTime : 42ms
+2025-01-19 07:07:49.491
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5013] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+363
+00:00:15,100 --> 00:00:15,142
+<font size="28">SrtCnt : 363, DiffTime : 42ms
+2025-01-19 07:07:49.532
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5013] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+364
+00:00:15,142 --> 00:00:15,184
+<font size="28">SrtCnt : 364, DiffTime : 42ms
+2025-01-19 07:07:49.574
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5012] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+365
+00:00:15,184 --> 00:00:15,225
+<font size="28">SrtCnt : 365, DiffTime : 41ms
+2025-01-19 07:07:49.616
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5012] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.000 abs_alt: 248.284] </font>
+
+366
+00:00:15,225 --> 00:00:15,267
+<font size="28">SrtCnt : 366, DiffTime : 42ms
+2025-01-19 07:07:49.657
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5012] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+367
+00:00:15,267 --> 00:00:15,309
+<font size="28">SrtCnt : 367, DiffTime : 42ms
+2025-01-19 07:07:49.699
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5012] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+368
+00:00:15,309 --> 00:00:15,350
+<font size="28">SrtCnt : 368, DiffTime : 41ms
+2025-01-19 07:07:49.742
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5011] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+369
+00:00:15,350 --> 00:00:15,392
+<font size="28">SrtCnt : 369, DiffTime : 42ms
+2025-01-19 07:07:49.786
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5011] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+370
+00:00:15,392 --> 00:00:15,434
+<font size="28">SrtCnt : 370, DiffTime : 42ms
+2025-01-19 07:07:49.824
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5011] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+371
+00:00:15,434 --> 00:00:15,476
+<font size="28">SrtCnt : 371, DiffTime : 42ms
+2025-01-19 07:07:49.866
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5011] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+372
+00:00:15,476 --> 00:00:15,517
+<font size="28">SrtCnt : 372, DiffTime : 41ms
+2025-01-19 07:07:49.908
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5010] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+373
+00:00:15,517 --> 00:00:15,559
+<font size="28">SrtCnt : 373, DiffTime : 42ms
+2025-01-19 07:07:49.950
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5010] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+374
+00:00:15,559 --> 00:00:15,601
+<font size="28">SrtCnt : 374, DiffTime : 42ms
+2025-01-19 07:07:49.991
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5009] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+375
+00:00:15,601 --> 00:00:15,642
+<font size="28">SrtCnt : 375, DiffTime : 41ms
+2025-01-19 07:07:50.033
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5009] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+376
+00:00:15,642 --> 00:00:15,684
+<font size="28">SrtCnt : 376, DiffTime : 42ms
+2025-01-19 07:07:50.074
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5009] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+377
+00:00:15,684 --> 00:00:15,726
+<font size="28">SrtCnt : 377, DiffTime : 42ms
+2025-01-19 07:07:50.116
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5009] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+378
+00:00:15,726 --> 00:00:15,768
+<font size="28">SrtCnt : 378, DiffTime : 42ms
+2025-01-19 07:07:50.158
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5008] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+379
+00:00:15,768 --> 00:00:15,809
+<font size="28">SrtCnt : 379, DiffTime : 41ms
+2025-01-19 07:07:50.200
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5008] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+380
+00:00:15,809 --> 00:00:15,851
+<font size="28">SrtCnt : 380, DiffTime : 42ms
+2025-01-19 07:07:50.246
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5008] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+381
+00:00:15,851 --> 00:00:15,893
+<font size="28">SrtCnt : 381, DiffTime : 42ms
+2025-01-19 07:07:50.283
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5008] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+382
+00:00:15,893 --> 00:00:15,934
+<font size="28">SrtCnt : 382, DiffTime : 41ms
+2025-01-19 07:07:50.325
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5007] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+383
+00:00:15,934 --> 00:00:15,976
+<font size="28">SrtCnt : 383, DiffTime : 42ms
+2025-01-19 07:07:50.366
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5007] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+384
+00:00:15,976 --> 00:00:16,018
+<font size="28">SrtCnt : 384, DiffTime : 42ms
+2025-01-19 07:07:50.410
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5006] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+385
+00:00:16,018 --> 00:00:16,060
+<font size="28">SrtCnt : 385, DiffTime : 42ms
+2025-01-19 07:07:50.450
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5006] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+386
+00:00:16,060 --> 00:00:16,101
+<font size="28">SrtCnt : 386, DiffTime : 41ms
+2025-01-19 07:07:50.492
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5005] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+387
+00:00:16,101 --> 00:00:16,143
+<font size="28">SrtCnt : 387, DiffTime : 42ms
+2025-01-19 07:07:50.533
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5005] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+388
+00:00:16,143 --> 00:00:16,185
+<font size="28">SrtCnt : 388, DiffTime : 42ms
+2025-01-19 07:07:50.575
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5004] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+389
+00:00:16,185 --> 00:00:16,226
+<font size="28">SrtCnt : 389, DiffTime : 41ms
+2025-01-19 07:07:50.617
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5004] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+390
+00:00:16,226 --> 00:00:16,268
+<font size="28">SrtCnt : 390, DiffTime : 42ms
+2025-01-19 07:07:50.659
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5001] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+391
+00:00:16,268 --> 00:00:16,310
+<font size="28">SrtCnt : 391, DiffTime : 42ms
+2025-01-19 07:07:50.700
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 5001] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+392
+00:00:16,310 --> 00:00:16,352
+<font size="28">SrtCnt : 392, DiffTime : 42ms
+2025-01-19 07:07:50.742
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4998] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+393
+00:00:16,352 --> 00:00:16,393
+<font size="28">SrtCnt : 393, DiffTime : 41ms
+2025-01-19 07:07:50.784
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4998] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+394
+00:00:16,393 --> 00:00:16,435
+<font size="28">SrtCnt : 394, DiffTime : 42ms
+2025-01-19 07:07:50.825
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4993] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+395
+00:00:16,435 --> 00:00:16,477
+<font size="28">SrtCnt : 395, DiffTime : 42ms
+2025-01-19 07:07:50.867
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4993] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+396
+00:00:16,477 --> 00:00:16,518
+<font size="28">SrtCnt : 396, DiffTime : 41ms
+2025-01-19 07:07:50.909
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4988] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+397
+00:00:16,518 --> 00:00:16,560
+<font size="28">SrtCnt : 397, DiffTime : 42ms
+2025-01-19 07:07:50.951
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4988] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+398
+00:00:16,560 --> 00:00:16,602
+<font size="28">SrtCnt : 398, DiffTime : 42ms
+2025-01-19 07:07:50.992
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4983] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+399
+00:00:16,602 --> 00:00:16,644
+<font size="28">SrtCnt : 399, DiffTime : 42ms
+2025-01-19 07:07:51.034
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4983] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+400
+00:00:16,644 --> 00:00:16,685
+<font size="28">SrtCnt : 400, DiffTime : 41ms
+2025-01-19 07:07:51.076
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4978] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+401
+00:00:16,685 --> 00:00:16,727
+<font size="28">SrtCnt : 401, DiffTime : 42ms
+2025-01-19 07:07:51.118
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4978] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+402
+00:00:16,727 --> 00:00:16,769
+<font size="28">SrtCnt : 402, DiffTime : 42ms
+2025-01-19 07:07:51.159
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4972] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+403
+00:00:16,769 --> 00:00:16,810
+<font size="28">SrtCnt : 403, DiffTime : 41ms
+2025-01-19 07:07:51.201
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4972] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+404
+00:00:16,810 --> 00:00:16,852
+<font size="28">SrtCnt : 404, DiffTime : 42ms
+2025-01-19 07:07:51.243
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4966] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+405
+00:00:16,852 --> 00:00:16,894
+<font size="28">SrtCnt : 405, DiffTime : 42ms
+2025-01-19 07:07:51.284
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4966] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034524] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+406
+00:00:16,894 --> 00:00:16,936
+<font size="28">SrtCnt : 406, DiffTime : 42ms
+2025-01-19 07:07:51.329
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4960] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+407
+00:00:16,936 --> 00:00:16,977
+<font size="28">SrtCnt : 407, DiffTime : 41ms
+2025-01-19 07:07:51.368
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4960] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+408
+00:00:16,977 --> 00:00:17,019
+<font size="28">SrtCnt : 408, DiffTime : 42ms
+2025-01-19 07:07:51.410
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4954] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+409
+00:00:17,019 --> 00:00:17,061
+<font size="28">SrtCnt : 409, DiffTime : 42ms
+2025-01-19 07:07:51.451
+[iso : 2140] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4954] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+410
+00:00:17,061 --> 00:00:17,102
+<font size="28">SrtCnt : 410, DiffTime : 41ms
+2025-01-19 07:07:51.493
+[iso : 2130] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4948] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+411
+00:00:17,102 --> 00:00:17,144
+<font size="28">SrtCnt : 411, DiffTime : 42ms
+2025-01-19 07:07:51.534
+[iso : 2110] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4948] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+412
+00:00:17,144 --> 00:00:17,186
+<font size="28">SrtCnt : 412, DiffTime : 42ms
+2025-01-19 07:07:51.576
+[iso : 2110] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4941] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+413
+00:00:17,186 --> 00:00:17,228
+<font size="28">SrtCnt : 413, DiffTime : 42ms
+2025-01-19 07:07:51.622
+[iso : 2080] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4941] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+414
+00:00:17,228 --> 00:00:17,269
+<font size="28">SrtCnt : 414, DiffTime : 41ms
+2025-01-19 07:07:51.660
+[iso : 2060] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4935] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+415
+00:00:17,269 --> 00:00:17,311
+<font size="28">SrtCnt : 415, DiffTime : 42ms
+2025-01-19 07:07:51.701
+[iso : 2060] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4935] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+416
+00:00:17,311 --> 00:00:17,353
+<font size="28">SrtCnt : 416, DiffTime : 42ms
+2025-01-19 07:07:51.743
+[iso : 2060] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4930] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+417
+00:00:17,353 --> 00:00:17,394
+<font size="28">SrtCnt : 417, DiffTime : 41ms
+2025-01-19 07:07:51.785
+[iso : 2060] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4930] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+418
+00:00:17,394 --> 00:00:17,436
+<font size="28">SrtCnt : 418, DiffTime : 42ms
+2025-01-19 07:07:51.829
+[iso : 2050] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4923] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+419
+00:00:17,436 --> 00:00:17,478
+<font size="28">SrtCnt : 419, DiffTime : 42ms
+2025-01-19 07:07:51.869
+[iso : 2040] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4923] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+420
+00:00:17,478 --> 00:00:17,520
+<font size="28">SrtCnt : 420, DiffTime : 42ms
+2025-01-19 07:07:51.910
+[iso : 2030] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4918] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
+421
+00:00:17,520 --> 00:00:17,561
+<font size="28">SrtCnt : 421, DiffTime : 41ms
+2025-01-19 07:07:51.952
+[iso : 2030] [shutter : 1/25.0] [fnum : 170] [ev : -1.0] [ct : 4918] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 40.732565] [longitude: -74.034525] [rel_alt: 222.100 abs_alt: 248.384] </font>
+
